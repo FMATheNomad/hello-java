@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author AGATHON
+ *
+ */
+module HelloWorld {
+}
